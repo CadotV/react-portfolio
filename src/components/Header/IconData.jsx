@@ -24,7 +24,7 @@ import { FcElectronics } from "react-icons/fc";
 import { FaNetworkWired } from "react-icons/fa";
 import { SiCsharp } from "react-icons/si";
 import { BsGpuCard } from "react-icons/bs";
-import { SiW3C } from "react-icons/si";
+import { DiW3C } from "react-icons/di";
 import { SiStorybook } from "react-icons/si";
 import { SiRemix } from "react-icons/si";
 
@@ -62,7 +62,7 @@ export const webpack = {
 };
 export const w3c = {
   text: "W3C",
-  icon: <SiW3C />,
+  icon: <DiW3C />,
   color: "#005a9d",
   link: "https://www.w3.org/",
 };
